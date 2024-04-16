@@ -1,0 +1,12 @@
+asgiref
+certifi
+chardet
+Django
+django-rosetta
+idna
+polib
+pytz
+requests
+six
+sqlparse
+urllib3
